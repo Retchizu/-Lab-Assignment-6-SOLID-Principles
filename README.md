@@ -1,7 +1,7 @@
 # 𝙻𝚊𝚋-𝙰𝚜𝚜𝚒𝚐𝚗𝚖𝚎𝚗𝚝-𝟼
 
 𝚄𝙼𝙻 𝙳𝚒𝚊𝚐𝚛𝚊𝚖 : 
-<img src="https://github.com/Retchizu/Lab-Assignment-6-SOLID-Principles/blob/main/Baltazar%2C%20Richmond%20A.%20Lab%20Assignment%206%20SOLID%20Principles%20UML.png" width="90%"></img> 
+<img src="https://github.com/Retchizu/Lab-Assignment-6-SOLID-Principles/blob/main/Baltazar%2C%20Richmond%20A.%20Lab%20Assignment%206%20SOLID%20Principles.png" width="90%"></img> 
 
 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜 : 
 
